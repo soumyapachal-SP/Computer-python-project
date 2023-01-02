@@ -1,0 +1,8 @@
+REPORT
+
+
+Name:Soumya Pachal            Roll No:77
+Batch ID:CSE22                Student ID:CSE2201
+
+
+Course Name:Python                        Grade:A
