@@ -1,2 +1,2 @@
-# Computer-python-project
+# Marks Distribution System Using Python
 Computer Project
